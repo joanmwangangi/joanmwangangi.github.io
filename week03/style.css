@@ -2,6 +2,8 @@
 /* CSS Document */
 
 body {
-   font-family: "Times New Roman", Times, serif;
-   color: black;
+   font-family: "Georgia", serif;
+   color: red;
+   line-height: 140%;
+   margin: 30px;
 }
