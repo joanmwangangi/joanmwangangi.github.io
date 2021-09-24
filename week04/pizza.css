@@ -7,7 +7,7 @@ html, body {
 
 html {
   font-size: 10px;
-  background-color: #a9a9a9;
+  background-color: #FDFBF6;
 }
 
 body {
@@ -62,8 +62,14 @@ body > * {
 }
 
 main, header, nav, article, aside, footer, section {
-  background-color: rgba(0,255,0,0.5);
+  background-color: rgba(210, 145, 188);
   padding: 1%;
+}
+
+ header, nav, article, aside, footer, section {
+  background-color: rgba(254, 200, 216);
+  padding: 1%;
+
 }
 
 h1 {
@@ -125,8 +131,8 @@ aside {
 
 aside a {
   display: block;
-  float: left;
-  width: 50%;
+  float: right;
+  width: 75%;
 }
 
 aside img {
